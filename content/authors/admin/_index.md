@@ -18,7 +18,7 @@ organizations:
   url: https://www.ncbs.res.in/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Deepanjali Dwivedi is a fifth-year Ph.D. student studying neuroscience at National Centre for Biological Sciences (NCBS), India. Her research expertise includes whole-cell patch-clamp electrophysiology and data analysis using MATLAB. She is interested in ion channel physiology, neurological disorders, Microglia, Astrocyte biology, and Interneuron functioning. She has extensive experience in whole-cell patch-clamp electrophysiology and data analysis using MATLAB.
+bio: Deepanjali Dwivedi is a fifth-year Ph.D. student studying neuroscience at the National Centre for Biological Sciences (NCBS), India. She has extensive experience in whole-cell patch-clamp electrophysiology and data analysis using MATLAB. She is interested in ion channel physiology, neurological disorders, Microglia, Astrocyte biology, and Interneuron functioning.
 
 interests:
 - Ion channel Physiology
@@ -69,3 +69,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
+
+Deepanjali Dwivedi is a fifth-year Ph.D. student studying neuroscience at the National Centre for Biological Sciences (NCBS), India. She has extensive experience in whole-cell patch-clamp electrophysiology and data analysis using MATLAB. She is interested in ion channel physiology, neurological disorders, Microglia, Astrocyte biology, and Interneuron functioning.
